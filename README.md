@@ -1,6 +1,6 @@
 # Hi, I'm Seyfan 👋
 
-I hold a **PhD in Statistical Physics** and specialize in **Data Analytics**, **Data Science**, and **Machine Learning**. I use advanced computational modeling, simulation techniques, and statistical methods to solve complex data problems, with published research in machine learning.
+I hold a **PhD in Physics** and specialize in ** in Statistical Physics** and additional  **Data Analytics**, **Data Science**, and **Machine Learning**. I use advanced computational modeling, simulation techniques, and statistical methods to solve complex data problems, with published research in machine learning.
 
 ---
 
