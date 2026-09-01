@@ -68,57 +68,29 @@ I am a Data Analyst and physicist specializing in statistical analysis, machine 
 ---
 
 👨‍🏫 Work Experience
-Assistant Professor — Salale University (2021–2023)
+Assistant Professor — Adama Science and Technology University (2021–2023)
 Advanced Computational Physics • Statistical Physics • Research Data Analysis
-
 Led computational research using ab‑initio methods and Kinetic Monte Carlo simulations, developing custom Fortran‑based modeling tools.
-
 Performed large‑scale data cleaning, statistical modeling, and quantitative analysis for research on charge transport in organic materials.
 
-Built analytical workflows using Python (Pandas, NumPy, SciPy) to extract insights from simulation datasets.
-
-Delivered clear analytical reports and collaborated with multidisciplinary teams to support academic decision‑making.
-
-Experience aligned with scientific data analysis and computational modeling.
-
-Lecturer — Jigjiga University (2010–2014)
-Computational Physics • Statistical Physics • Mathematical Modeling
-
-Taught courses requiring statistical reasoning, numerical analysis, and data‑driven problem solving.
-
-Designed teaching modules involving data visualization, trend analysis, and quantitative interpretation.
-
-Strengthened skills in data storytelling and technical communication.
 
 📊 Data Analyst Experience
 Data Analyst — Insurance Company (2021–2024)
 Power BI • SQL • Python • Risk Analytics
-
 Analyzed customer, claims, and financial datasets to identify trends, anomalies, and risk patterns.
-
 Built Power BI dashboards visualizing KPIs such as claim frequency, loss ratios, retention, and risk segmentation.
-
 Queried relational databases using SQL to generate actionable insights for underwriting and management teams.
-
 Developed predictive models using Python (Pandas, NumPy, Scikit‑learn) to support pricing and risk assessment.
-
 Automated recurring reports with Python, improving operational efficiency.
-
 Experience aligned with insurance analytics and business intelligence.
 
 Data Analyst — University Data Analytics Office (2018–2023)
 Power BI • Excel • SQL • Institutional Analytics
-
 Conducted institutional analysis on enrollment trends, student performance, and operational metrics.
-
 Cleaned and transformed large datasets using Python, SQL, and Excel Power Query.
-
 Built Power BI dashboards for administrators to support academic planning and resource allocation.
-
 Applied statistical methods to evaluate program effectiveness and identify performance indicators.
-
 Collaborated with academic departments to translate raw data into clear insights and recommendations.
-
 Experience aligned with education analytics and dashboard development.
 
 
