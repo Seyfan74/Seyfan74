@@ -11,6 +11,7 @@ Data Analyst | Statistical Physics | Computational Modeling | Machine Learning
 I am a Data Analyst and physicist specializing in statistical analysis, machine learning, and computational modeling. I enjoy working with complex datasets, building analytical pipelines, and extracting meaningful patterns that support decision‑making. I thrive in both team‑based and independent environments, bringing a disciplined, research‑driven mindset to every project.
 
 🛠 Skills & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
