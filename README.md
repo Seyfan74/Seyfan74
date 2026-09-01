@@ -1,23 +1,18 @@
 # Hi, I'm Seyfan Kelil Shukri 👋  
-Assistant Professor | Statistical Physics | Computational Modeling | Machine Learning
+Data Analysist | Statistical Physics | Computational Modeling | Machine Learning
 
-📍 Ethiopia  
+📍 U.S.A  
 📧 seyfan74@gmail.com  
-📞 +251911770351  
+📞 +1 314 556 4354  
 🔗 ResearchGate: https://researchgate.net/profile/Seyfan-Shukri  
+🔗 Google Scholar: https://scholar.google.com/citations?hl=en&user=E-PMV-0AAAAJ
 
 ---
 
 ## 🧠 About Me  
-I am a curious and energetic physicist who enjoys problem solving, collaboration, and exchanging ideas.  
-I work comfortably in both team‑based and independent research environments.  
-Ambitious, goal‑oriented, and experienced in demanding academic and research settings.
+I am a Data Analyst and physicist specializing in statistical analysis, machine learning, and computational modeling. I enjoy working with complex datasets, building analytical pipelines, and extracting meaningful patterns that support decision‑making. I thrive in both team‑based and independent environments, bringing a disciplined, research‑driven mindset to every project.
 
----
 
-## 🔬 Research Area  
-Charge transport properties and energy transfer in conjugated polymer materials using  
-Monte Carlo simulation methods, ab‑initio calculations, and kinetic Monte Carlo modeling.
 
 ---
 
@@ -25,23 +20,39 @@ Monte Carlo simulation methods, ab‑initio calculations, and kinetic Monte Carl
 
 ### Programming  
 - Python  
-- Fortran90 (working language)  
+- SQL  
+- R  
+- Fortran90 (scientific computing)  
 - C, C++  
 
-### Computational Packages  
-- GPAW  
-- Quantum Espresso  
-- Abinit  
-- Kinetic Monte Carlo (custom Fortran code)  
-- Machine Learning & MD simulation tools  
+### Data Analytics & BI Tools  
+- Power BI  
+- Excel (Pivot Tables, Power Query)  
+- Tableau  
 
-### Physics Expertise  
-- Statistical Physics  
-- Computational Physics  
-- Quantum Physics  
-- Mathematical Physics  
+### Cloud & Big Data  
+- AWS (S3, Athena, Glue, Redshift)  
+- Azure (Synapse, Data Factory)  
+- Google Cloud (BigQuery)
 
----
+### Python Data Analysis Stack  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit‑learn  
+- SciPy  
+
+### Databases  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+### Additional Tools  
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code
+
 
 ## 🎓 Education  
 - **Ph.D., Statistical Physics (2014–2021)**  
@@ -56,21 +67,60 @@ Monte Carlo simulation methods, ab‑initio calculations, and kinetic Monte Carl
 
 ---
 
-## 👨‍🏫 Work Experience  
+👨‍🏫 Work Experience
+Assistant Professor — Salale University (2021–2023)
+Advanced Computational Physics • Statistical Physics • Research Data Analysis
 
-### Assistant Professor — Salale University (2021–Present)  
-Courses: Advanced Computational Physics, Statistical Physics  
-Project: Charge transport in disordered organic materials using ab‑initio + KMC (Fortran)
+Led computational research using ab‑initio methods and Kinetic Monte Carlo simulations, developing custom Fortran‑based modeling tools.
 
-### Lecturer — Jigjiga University (2010–2014)  
-Courses: Computational Physics, Statistical Physics, Mathematical Physics, Classical Physics, Quantum Physics  
-Prepared teaching materials and modules.
+Performed large‑scale data cleaning, statistical modeling, and quantitative analysis for research on charge transport in organic materials.
 
-### Secondary School Teacher — Ketar Faufate (2006–2008)
+Built analytical workflows using Python (Pandas, NumPy, SciPy) to extract insights from simulation datasets.
 
-### Part‑time Teaching  
-- Addis Ababa University — General Physics (since 2014)  
-- Addis Ababa Science & Technology University — General Physics (2012)
+Delivered clear analytical reports and collaborated with multidisciplinary teams to support academic decision‑making.
+
+Experience aligned with scientific data analysis and computational modeling.
+
+Lecturer — Jigjiga University (2010–2014)
+Computational Physics • Statistical Physics • Mathematical Modeling
+
+Taught courses requiring statistical reasoning, numerical analysis, and data‑driven problem solving.
+
+Designed teaching modules involving data visualization, trend analysis, and quantitative interpretation.
+
+Strengthened skills in data storytelling and technical communication.
+
+📊 Data Analyst Experience
+Data Analyst — Insurance Company (2021–2024)
+Power BI • SQL • Python • Risk Analytics
+
+Analyzed customer, claims, and financial datasets to identify trends, anomalies, and risk patterns.
+
+Built Power BI dashboards visualizing KPIs such as claim frequency, loss ratios, retention, and risk segmentation.
+
+Queried relational databases using SQL to generate actionable insights for underwriting and management teams.
+
+Developed predictive models using Python (Pandas, NumPy, Scikit‑learn) to support pricing and risk assessment.
+
+Automated recurring reports with Python, improving operational efficiency.
+
+Experience aligned with insurance analytics and business intelligence.
+
+Data Analyst — University Data Analytics Office (2018–2023)
+Power BI • Excel • SQL • Institutional Analytics
+
+Conducted institutional analysis on enrollment trends, student performance, and operational metrics.
+
+Cleaned and transformed large datasets using Python, SQL, and Excel Power Query.
+
+Built Power BI dashboards for administrators to support academic planning and resource allocation.
+
+Applied statistical methods to evaluate program effectiveness and identify performance indicators.
+
+Collaborated with academic departments to translate raw data into clear insights and recommendations.
+
+Experience aligned with education analytics and dashboard development.
+
 
 ---
 
