@@ -1,32 +1,107 @@
-# Hi, I'm Seyfan 👋
+# Hi, I'm Seyfan Kelil Shukri 👋  
+Assistant Professor | Statistical Physics | Computational Modeling | Machine Learning
 
-I hold a **PhD in Physics** and specialize in ** in Statistical Physics** and additional  **Data Analytics**, **Data Science**, and **Machine Learning**. I use advanced computational modeling, simulation techniques, and statistical methods to solve complex data problems, with published research in machine learning.
-
----
-
-## 💻 Tech Stack & Expertise
-
-### Data Science, ML & Physics Simulations
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  [C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F79A3E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+📍 Ethiopia  
+📧 seyfan74@gmail.com  
+📞 +251911770351  
+🔗 ResearchGate: https://researchgate.net/profile/Seyfan-Shukri  
 
 ---
 
-## 🔬 Publications & Research Focus
-* **Statistical Physics & Simulations:** Applied physical modeling and computational simulations to analyze complex systems.
-* **Machine Learning Research:** Published peer-reviewed journal articles leveraging machine learning methods for scientific data analysis.
+## 🧠 About Me  
+I am a curious and energetic physicist who enjoys problem solving, collaboration, and exchanging ideas.  
+I work comfortably in both team‑based and independent research environments.  
+Ambitious, goal‑oriented, and experienced in demanding academic and research settings.
 
 ---
 
-## 🌐 Connect with Me 
-seyfan74@gmail.com 
+## 🔬 Research Area  
+Charge transport properties and energy transfer in conjugated polymer materials using  
+Monte Carlo simulation methods, ab‑initio calculations, and kinetic Monte Carlo modeling.
 
 ---
 
-## 📊 My GitHub Activity
-![Seyfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyfan74&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyfan74&layout=compact&theme=dark)
+## 🛠 Skills & Tools
+
+### Programming  
+- Python  
+- Fortran90 (working language)  
+- C, C++  
+
+### Computational Packages  
+- GPAW  
+- Quantum Espresso  
+- Abinit  
+- Kinetic Monte Carlo (custom Fortran code)  
+- Machine Learning & MD simulation tools  
+
+### Physics Expertise  
+- Statistical Physics  
+- Computational Physics  
+- Quantum Physics  
+- Mathematical Physics  
+
+---
+
+## 🎓 Education  
+- **Ph.D., Statistical Physics (2014–2021)**  
+  Addis Ababa University  
+  *Transport Properties of Charge Carriers in Disordered Organic Semiconductors using Monte Carlo Simulations*
+
+- **M.Sc., Physics (2008–2010)**  
+  Addis Ababa University  
+
+- **B.Ed., Physics (2003–2006)**  
+  Jimma University  
+
+---
+
+## 👨‍🏫 Work Experience  
+
+### Assistant Professor — Salale University (2021–Present)  
+Courses: Advanced Computational Physics, Statistical Physics  
+Project: Charge transport in disordered organic materials using ab‑initio + KMC (Fortran)
+
+### Lecturer — Jigjiga University (2010–2014)  
+Courses: Computational Physics, Statistical Physics, Mathematical Physics, Classical Physics, Quantum Physics  
+Prepared teaching materials and modules.
+
+### Secondary School Teacher — Ketar Faufate (2006–2008)
+
+### Part‑time Teaching  
+- Addis Ababa University — General Physics (since 2014)  
+- Addis Ababa Science & Technology University — General Physics (2012)
+
+---
+
+## 📚 Publications  
+1. *Effects of localization length and spatial disorder on charge carrier mobility in organic disordered semiconductors*  
+   AIP Advances 11, 095118 (2021)
+
+2. *Charge Carrier Density, Temperature, and Electric Field Dependence of Mobility in Disordered Organic Semiconductors*  
+   Condensed Matter (2021)
+
+3. *The effects of spatial disorder on charge carrier mobility using Ab‑initio* (to be submitted)
+
+---
+
+## 🌍 International Conferences  
+- Complex Quantum Systems Out of Equilibrium — Yerevan, Armenia (2019)  
+- EPS Annual Conference — Adama, Ethiopia (2019)  
+- Eastern Africa School on Electronic Structure Methods — Addis Ababa (2019)  
+- RASESMA — Kigali, Rwanda (2020)
+
+---
+
+## 🧩 Professional Membership  
+- Ethiopian Physical Society (EPS)  
+- Ethiopian Space Science Society (ESSS)  
+- Computational Science & Engineering Society of Ethiopia (CSESE)  
+- American Physical Society (APS)
+
+---
+
+## 🤝 References  
+- Dr. Lami Demeyu — lemidd@yahoo.com  
+- Dr. Mulegeta Bekele — mulugetabekele1@gmail.com  
+- Dr. Teshoma Senbatu — teshomesenbeta@gmail.com  
